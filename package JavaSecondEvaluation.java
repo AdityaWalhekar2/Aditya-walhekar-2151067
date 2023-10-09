@@ -111,8 +111,8 @@ public class CollegeMngmntSys {
         CollegeManager collegeManager = new CollegeManager();
 
         // Creating students
-        Student student1 = new Student(1, "Shiv", "shiv@gmail.com", "123-456-7890", "Shivane, Pune-23");
-        Student student2 = new Student(2, "Raj", "raj@example.com", "987-654-3210", "Warje, Pune-23");
+        Student student1 = new Student(1, "swaraj", "swaraj@gmail.com", "123-456-7890", "Shivane, Pune-23");
+        Student student2 = new Student(2, "Raj", "raj@gmail.com", "987-654-3210", "Warje, Pune-23");
 
         // Adding students to the system
         collegeManager.addStudent(student1);
